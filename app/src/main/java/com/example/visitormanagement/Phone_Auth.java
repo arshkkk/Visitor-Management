@@ -182,6 +182,9 @@ public class Phone_Auth extends AppCompatActivity {
                 // for instance if the the phone number format is not valid.
 //                Log.w(TAG, "onVerificationFailed", e);
 
+                //Re Enable Verify Button
+                verifyButton.setEnabled(true);
+
                 if (e instanceof FirebaseAuthInvalidCredentialsException) {
                     // Invalid request
                     // ...
