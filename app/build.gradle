@@ -55,6 +55,8 @@ dependencies {
     implementation 'com.github.mukeshsolanki:android-otpview-pinview:2.1.0'
     implementation "com.airbnb.android:lottie:3.4.0"
     implementation 'id.zelory:compressor:2.1.0'
+    implementation 'com.karumi:dexter:6.0.2'
+
 
 
 
