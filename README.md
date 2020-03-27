@@ -33,5 +33,10 @@ What I can add More to Application:-
 3. We can add another activity for showing Meetings Data sorted by Date.
 4. Activity for adding employees.
 5. Blacklisting any visitor.
+
+=============================================================================================================================
+
+If Firebase Auth doesn't work and show request blocked
+Use Test Phone : `+91 123456790 OTP: 123456`
         
 
